@@ -8,7 +8,7 @@ OpenShift-compatible variant of https://filebrowser.org/
 
 2. Click '+Add' and select 'From Dockerfile':
 
-   -  Git Repo URL: `https://github.com/acch/openshift-filebrowser`
+   -  Git Repo URL: `https://github.com/jblumert/filebrowser`
 
    -  Dockerfile path: `Dockerfile` (default)
 
