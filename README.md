@@ -6,7 +6,7 @@ OpenShift-compatible variant of https://filebrowser.org/
 
 1. Log in to OpenShift Container Platform (OCP) web console and switch to 'Developer' view
 
-2. Click '+Add' and select 'From Dockerfile':
+2. Click '+Add' and select Git Repository 'Import from Git':
 
    -  Git Repo URL: `https://github.com/jblumert/filebrowser`
 
