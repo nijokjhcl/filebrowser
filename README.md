@@ -32,7 +32,7 @@ OpenShift-compatible variant of https://filebrowser.org/
 
        -   Volume Mode: `Filesystem` (default)
 
-   - **Important** - Mount Path: `/srv`
+   - **Important** - Mount Path: `/files`
 
 4. You're all set! Find the _Route_ that was created for the application and open it from a web browser. Default Username is `admin`, default Password is `admin`.
 
