@@ -1,4 +1,4 @@
-FROM docker.io/filebrowser/filebrowser:v2
+FROM docker.io/filebrowser/filebrowser
 
 COPY filebrowser.json /.filebrowser.json
 
