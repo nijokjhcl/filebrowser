@@ -1,4 +1,4 @@
-FROM x82psel4.pbm.ihost.com:5000/filebrowser/filebrowser:latest
+FROM docker.io/filebrowser/filebrowser:v2
 
 COPY filebrowser.json /.filebrowser.json
 
